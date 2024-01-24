@@ -1,1 +1,6 @@
-# flutter_app_template
+# Flutter app template
+
+Template for Flutter mobile app
+
+## Getting Started
+
